@@ -1,0 +1,72 @@
+{
+  "challenge": [
+    {
+      "id": 1,
+      "name": "jeannette",
+      "email": "janetuwili@gmail.com",
+      "phone": "0789310350"
+    },
+    {
+      "id": 2,
+      "name": "alice",
+      "email": "alice@gmail.com",
+      "phone": "0729586839"
+    },
+    {
+      "id": 3,
+      "name": "nihira",
+      "phone": "0788882939",
+      "email": "",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "mirium",
+      "phone": "0789310350",
+      "email": "",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "didie",
+      "phone": "0789310350",
+      "email": "mirium@gmail.com",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "uwajeneza",
+      "phone": "0789310350",
+      "email": "uwimana@gmail.com",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "mama",
+      "phone": "0789310350",
+      "email": "mama@gmail.com",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "ange",
+      "phone": "0789310350",
+      "email": "mama@gmail.com",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "mirium67",
+      "phone": "0789310350",
+      "email": "mirium@gmail.com",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "uwamahoro",
+      "phone": "0789310350",
+      "email": "uwamahoro@gmail.com",
+      "active": true
+    }
+  ]
+}
